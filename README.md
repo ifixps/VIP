@@ -1,6 +1,7 @@
-# PS4 Exploit Host
-Firmwares: `6.72` `7.02` `7.5X` `9.00`
-
+# PS3. PS4. PS5 Exploit Host
+Firmwares:PS3 _4.86/4.89
+          PS4_ 6.72/9.00
+          PS5_ 4.03/4.51
 ## Steps:
 
 - In the PS4 browser go to: https://ifixps.github.io/
